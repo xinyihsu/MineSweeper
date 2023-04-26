@@ -1,0 +1,3 @@
+Load RandomRate 9 9 0.3
+Print BombCount
+Print GameAnswer
